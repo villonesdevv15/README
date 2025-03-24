@@ -12,7 +12,7 @@
    *･｡
       .｡  
 
-- 🌱 I’m currently learning **Python, Javascript, C#, C++**
+- 🌱 I'm currently learning **Python, Javascript, C#, C++**
 
 - ⚡ **I learn online (not currently in a program)**
 
