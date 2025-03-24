@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript, C#, C++**
 
-- ⚡ Fun fact **I learn online (not currently in a program)**
+- ⚡ **I learn online (not currently in a program)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
