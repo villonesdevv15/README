@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorenz Villones</h1>
+<h1 align="center">Heya 👋</h1>
 <h3 align="center"> 💻 Backend Developer</h3>
 <h3 align="center"> 📷 Video Editor </h3>
 <h3 align="center"> 🎮 SayoDevice User QwQ</h3>
